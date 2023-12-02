@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Hung Nguyen</h1>
-<h3 align="center">A AI, ML & DE Euthusiast</h3>
+<h3 align="center">AI, ML & DE Euthusiast</h3>
 
 - 🌱 I’m currently studying Bachelor of Computer Science (Data Science) at Swinburne University.
 
