@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Hung Nguyen</h1>
 <h3 align="center">AI, ML & DE Euthusiast</h3>
-
-- 🌱 I’m currently studying Bachelor of Computer Science (Data Science) at Swinburne University.
-
 - 👨‍💻 All of my projects are available at [https://github.com/Trox824?tab=repositories](https://github.com/Trox824?tab=repositories) 
 
 - 📫 How to reach me **nthung2k4work@gmail.com**
